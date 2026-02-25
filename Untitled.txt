@@ -1,0 +1,45 @@
+what is function :
+		a function is a predefined block of code that can be reused again and again . it helps to reduce repeatation in code and improve code .
+
+console.log(2+4);
+console.log(3+4);
+console.log(7+5);
+
+this can be reduced to :
+
+function add(a,b);{
+	console.log(a+b);
+}
+
+add(2+4);
+add(3+4);
+add(7+5);
+
+function greet();{
+	console.log("welcome" + name)
+}
+
+
+what is an array :
+stores multiple values with different datatypes
+why array is used :
+stores multiple values 
+reduces repetition
+
+creating array :
+
+let arr=[12,4,3]
+using constructer : new array(1,2,3)
+empty array : []
+
+
+indexing:
+array use zero based indexing
+
+accesing : arr[1] 
+update :arr[1]=50
+
+length property :
+arr.length gives length of the array 
+used in loop 
+
