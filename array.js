@@ -96,6 +96,3 @@ if (num1 % 2==0){
 checkEven(num1);
 
 
-
-
-
