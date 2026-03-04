@@ -8,3 +8,5 @@ console.log(student.marks);
 
 console.log(student.name="wavare");
 console.log(student);
+
+console.log(student.name + " " + student.marks);
